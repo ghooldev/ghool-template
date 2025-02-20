@@ -8,6 +8,8 @@ Please make your own code, and use this how it is meant to be used, as a shell.
 
 SO DON'T SKID!
 
-Also, if you are using this template, make sure your tool is open-sourced, and not ratted etc.
+Also, if you are using this template, make sure your tool is open-sourced, and not ratted etc
+
+**ADVANCED USERS ONLY**
 
 Thanks for supporting me!
