@@ -1,1 +1,4 @@
 pystyle
+colorama
+requests
+threading
